@@ -7,4 +7,4 @@
 | r0946572        | [Arne Bogaerts](mailto:r0946572@student.thomasmore.be)       | 1ITF 01 | [ArneBogaerts](https://github.com/ArneBogaerts) |
 | r0893183        | [Roel Metdepenningen](mailto:r0893183@student.thomasmore.be) | 1ITF 04 | [rmetdep](https://github.com/rmetdep)           |
 
-- **GitHub Repo**: [https://github.com/landleren-be/LandLeren](https://github.com/itfactory-tm/....)
+- **GitHub Repo**: [https://github.com/landleren-be/Website](https://github.com/landleren-be/Website)
