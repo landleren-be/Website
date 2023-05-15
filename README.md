@@ -9,3 +9,4 @@
 
 - **GitHub Repo**: [https://github.com/landleren-be/Website](https://github.com/landleren-be/Website)
 - **Website** : [https://www.landleren.be/](https://www.landleren.be/)
+- **Monitoring** : [https://status.landleren.be/](https://status.landleren.be/)
