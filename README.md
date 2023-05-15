@@ -8,3 +8,4 @@
 | r0893183        | [Roel Metdepenningen](mailto:r0893183@student.thomasmore.be) | 1ITF 04 | [rmetdep](https://github.com/rmetdep)           |
 
 - **GitHub Repo**: [https://github.com/landleren-be/Website](https://github.com/landleren-be/Website)
+- **Website** : [https://www.landleren.be/](https://www.landleren.be/)
